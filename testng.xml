@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Programs.FlipkartGenerics"/>
+      <class name="Programs.Screenshots"/>
+      <class name="Programs.Enhancing_StudentQAForm"/>
+      <class name="Programs.Autoit"/>
+      <class name="Programs.Print_ALLlinks_concept"/>
+      <class name="Programs.Boolean_Expressions"/>
+      <class name="Programs.ScrollBar_Element"/>
+      <class name="Programs.Frames"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
